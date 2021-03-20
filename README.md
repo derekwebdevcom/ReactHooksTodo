@@ -1,2 +1,2 @@
 # ReactHooksTodo
-Simple React Hooks Todo Application Practice
+Simple React Hooks Todo Application w/Sass Practice
